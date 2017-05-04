@@ -22,11 +22,14 @@
 
   创建版本库
     git init
+  
+  建立密钥
+    ssh-keygen -t rsa -C "youname@xxx.com"
 
-  在本地目录下关联远程repository ：
+  在本地目录下关联远程repository
     git remote add origin git@github.com:git_username/repository_name.git
 
-  取消本地目录下关联的远程库：
+  取消本地目录下关联的远程库
     git remote remove origin
 
   状态

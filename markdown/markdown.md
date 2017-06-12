@@ -22,14 +22,14 @@ MarkDown笔记
 
 3. 1到6阶标题
 
-	# This is an H1   
-	## This is an H2   
-	###### This is an H6   
+	    # This is an H1   
+	    ## This is an H2   
+	    ###### This is an H6   
 
    闭合标题
 
-	# This is an H1   
-	### This is an H3###   
+	    # This is an H1   
+	    ### This is an H3 ###   
 
 引用
 ----

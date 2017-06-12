@@ -59,27 +59,27 @@ MarkDown笔记
 
 1. 方括号后面马上接着圆括号并插入网址链接   
 
-    This is [an example](http://example.com/ "Title") inline link.
+        This is [an example](http://example.com/ "Title") inline link.
 
 2. 参考式的链接是在链接文字的括号后面再接上另一个方括号，而在第二个方括号里面要填入用以辨识链接的标记
 
-    This is [an example][id] reference-style link.
-    [id]: http://example.com/  "Optional Title Here"
+        This is [an example][id] reference-style link.
+        [id]: http://example.com/  "Optional Title Here"
 
 3. 隐式链接标记
 
-    [Google][]
-    [Google]: http://google.com/
+        [Google][]
+        [Google]: http://google.com/
 
 强调
 ----
 1. 斜体
 
-    *italic* _italic_
+        *italic* _italic_
 
 2. 粗体
 
-    **bold** __bold__
+        **bold** __bold__
 
 图片
 ----

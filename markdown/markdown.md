@@ -88,7 +88,7 @@ MarkDown笔记
 * 接着一对方括号，里面放上图片的替代文字
 * 接着一对普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 文字。
 
-    ![Alt text](/path/to/img.jpg)
+        ![Alt text](/path/to/img.jpg)
 
 
 自动链接
@@ -96,5 +96,5 @@ MarkDown笔记
 
 * 用尖括号包起来
 
-    <http://example.com/>   
-    <address@example.com>
+        <http://example.com/>   
+        <address@example.com>

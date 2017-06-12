@@ -1,4 +1,7 @@
-1 安装
+Git 学习笔记
+============
+
+1.安装
 
   Linux
     sudo apt-get install git
